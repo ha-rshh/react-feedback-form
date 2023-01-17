@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-feedback-form/static/css/main.36ac5562.css",
+    "main.js": "/react-feedback-form/static/js/main.9aa6b739.js",
+    "index.html": "/react-feedback-form/index.html",
+    "main.36ac5562.css.map": "/react-feedback-form/static/css/main.36ac5562.css.map",
+    "main.9aa6b739.js.map": "/react-feedback-form/static/js/main.9aa6b739.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36ac5562.css",
+    "static/js/main.9aa6b739.js"
+  ]
+}
